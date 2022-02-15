@@ -34,6 +34,10 @@ main {
   }
 }
 
+h1 span {
+  text-transform: capitalize;
+}
+
 p.artist {
   font-style: italic;
 }
